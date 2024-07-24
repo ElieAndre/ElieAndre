@@ -59,14 +59,31 @@
 
 ## 📊 GitHub Stats:
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ElieAndre)<br/>
+<div style="display: flex;">
+  <a href="https://github.com/ElieAndre" style="flex: 1; margin-right: 10px;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=ElieAndre" />
+  </a>
+  <a href="https://github.com/ElieAndre" style="flex: 1;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieAndre" />
+  </a>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ElieAndre)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieAndre&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=ElieAndre" />
+</a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ElieAndre&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
 
