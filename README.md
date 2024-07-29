@@ -5,7 +5,7 @@
 🔭 Currently working on building learning material for any aspiring data scientists & AI engineers<br/>
 🌱 Currently interested in the field of deep learning, more specifcally about NLP and Computer vision Models<br/>
 💬 Currrently learning about LLMs <br/>
-😊 Help me grow my blog [andreml](https://medium.com/@andreml)</br>
+😊 Help me grow my blog [andreai](https://medium.com/@andreAI)</br>
 📫 Want to collaborate? reach me @ [LinkedIn](https://www.linkedin.com/in/elie-disso)<br/>
 
 
