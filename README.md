@@ -57,20 +57,20 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=ElieAndre" />
+<img src="https://streak-stats.demolab.com?user=ElieAndre&theme=modern-lilac2&hide_border=true&border_radius=&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" />
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/ElieAndre" style="flex: 1;">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=ElieAndre" />
+---
+
+<div style= "display: flex;">
+<a href="https://github.com/ElieAndre" style="flex: 1; margin-right: 10px;">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=ElieAndre&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" />
 </a>
-</p>
-<p align="center">
 <a href="https://github.com/ElieAndre" style="flex: 1;">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieAndre" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieAndre&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
 </a>
-</p>
+<div>
 
 
 ---
