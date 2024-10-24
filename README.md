@@ -2,7 +2,7 @@
 
 
 🎓 PhD student in Artificial Intelligence & Biotech [more info](https://www.westminster.ac.uk/research/groups-and-centres/health-data-science-research-group/people) at the University of Westminster, London, UK<br/>
-🔭 Currently working on building learning material for any aspiring data scientists & AI engineers<br/>
+🔭 Presently working on building learning material for any aspiring data scientists & AI engineers<br/>
 🌱 Currently interested in the field of deep learning, more specifcally about NLP and Computer vision Models<br/>
 💬 Currrently learning about LLMs <br/>
 😊 Help me grow my blog [andreDL](https://medium.com/@elieandre)</br>
